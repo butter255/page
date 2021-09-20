@@ -487,7 +487,24 @@ var _hmt = _hmt || [];
                         target="_blank">ef-悠久之翼 资源档案楼</a>
                     <br>
 <hr class="top_hr_style02">
-<script src="https://cdn.jsdelivr.net/gh/butter255/page@v1.0/javascript/time.js"></script>
+</script>
+<script type="text/javascript">
+	function runtime() {
+		X = new Date("05/19/2020 00:00:00");
+		Y = new Date();
+		T = (Y.getTime() - X.getTime());
+		M = 24 * 60 * 60 * 1000;
+		a = T / M;
+		A = Math.floor(a);
+		b = (a - A) * 24;
+		B = Math.floor(b);
+		c = (b - B) * 60;
+		C = Math.floor((b - B) * 60);
+		D = Math.floor((c - C) * 60);
+		span.innerHTML = "本站已苟活: " + A + "天" + B + "小时" + C + "分" + D + "秒"
+	}
+	setInterval(runtime, 1000);
+</script>
 <span id="span"></span><br>
 		<span class="footer-text">Copyright © 2020 - <script>
 				document.write((new Date()).getFullYear())
