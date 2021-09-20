@@ -64,30 +64,20 @@ document.oncontextmenu=stop;
 </script>
 
 <script type="text/javascript">
-	function change(){
-		var bodyBgs = [];
-		bodyBgs[0] = "http://img.netbian.com/file/2019/0808/ea41cb48c796ffd3020514994fc3e839.jpg";
-		bodyBgs[1] = "http://img.netbian.com/file/2019/0808/ea41cb48c796ffd3020514994fc3e839.jpg";
-		bodyBgs[2] = "http://img.netbian.com/file/2019/0808/ea41cb48c796ffd3020514994fc3e839.jpg";
-		bodyBgs[3] = "http://img.netbian.com/file/2019/0808/2bedaa2e638faded4fbec176aea8c223.jpg";
-		bodyBgs[4] = "http://img.netbian.com/file/2019/0808/2bedaa2e638faded4fbec176aea8c223.jpg";
-		bodyBgs[5] = "http://img.netbian.com/file/2019/0808/2bedaa2e638faded4fbec176aea8c223.jpg";
-		bodyBgs[6] = "http://img.netbian.com/file/2019/0125/01a2990f9e6125fa93b01441aab2cc2e.jpg";
-		bodyBgs[7] = "http://img.netbian.com/file/2019/0125/01a2990f9e6125fa93b01441aab2cc2e.jpg";
-		bodyBgs[8] = "http://img.netbian.com/file/2018/1214/3fd293c8825cab753516ae3f8b6b6660.jpg";
-		bodyBgs[9] = "http://img.netbian.com/file/2018/1214/3fd293c8825cab753516ae3f8b6b6660.jpg";
-		bodyBgs[10] = "http://img.netbian.com/file/2018/1214/3fd293c8825cab753516ae3f8b6b6660.jpg";
-//注意 bodyBgs[50] 50是当前序号, 按照顺序添加或删除即可, 但是序号必须是连续的
+    //<!CDATA[
+    var pic = [];
+    pic[0] = "https://www.omegaxyz.com/wp-content/uploads/2018/06/new.jpg";
+    pic[1] = "https://www.omegaxyz.com/wp-content/uploads/2018/01/tensorflow.jpg";
+    pic[2] = "https://www.omegaxyz.com/wp-content/uploads/2017/06/htmlandcss.jpg";
+    pic[3] = "https://www.omegaxyz.com/wp-content/uploads/2018/07/tbp.jpg";
 
-		//bodyBgs[] = "";
+    var randomBgIndex = Math.round( Math.random() * 3 );
 
-		var randomBgIndex = Math.round( Math.random() * 10 );//这里的10是随机取值范围, 取最后一个 bodyBgs[*] 的值即可
-		//document.write('<style>html{background-image:url(' + bodyBgs[randomBgIndex] + ')}</style>');
-		var img1= document.getElementById('bgimg');
-		img1.style.backgroundImage='url(' + bodyBgs[randomBgIndex] + ')';
-	        window.setTimeout(function(){change()},10000);//图片切换时间 1000=1s
-	}
-	change();
+    //输出随机的背景图
+    //document.write('<style>body{background:url(' + bodyBgs[randomBgIndex] + ') no-repeat 50% 0}</style>');
+    document.write("<img src=" + pic[randomBgIndex] + " width='400'>");
+	window.setTimeout(function(){change()},10000);
+    //]]>
 </script>
 <style>
 /* basic styles for black background and crosshair cursor */
