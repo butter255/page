@@ -66,22 +66,16 @@ document.oncontextmenu=stop;
 <script type="text/javascript">
 	function change(){
 		var bodyBgs = [];
-		bodyBgs[0] = ""https://eva05.herokuapp.com";
-		bodyBgs[1] = ""https://eva05.herokuapp.com";
-		bodyBgs[2] = "https://eva05.herokuapp.com";
-		bodyBgs[3] = "https://eva05.herokuapp.com";
-		bodyBgs[4] = "https://eva05.herokuapp.com";
-		bodyBgs[5] = "https://eva05.herokuapp.com";
-		bodyBgs[6] = "https://eva05.herokuapp.com";
-		bodyBgs[7] = "https://eva05.herokuapp.com";
-		bodyBgs[8] = "https://eva05.herokuapp.com";
-		bodyBgs[9] = "https://eva05.herokuapp.com";
-		bodyBgs[10] = "https://eva05.herokuapp.com";
+		bodyBgs[0] = "https://cdn.jsdelivr.net/gh/butter255/05tc/man007aL.png";
+		bodyBgs[1] = "https://cdn.jsdelivr.net/gh/butter255/05tc/man007aL.png";
+		bodyBgs[2] = "https://cdn.jsdelivr.net/gh/butter255/05tc/man007aL.png";
+		bodyBgs[3] = "https://cdn.jsdelivr.net/gh/butter255/05tc/man007aL.png";
+
 //注意 bodyBgs[50] 50是当前序号, 按照顺序添加或删除即可, 但是序号必须是连续的
 
 		//bodyBgs[] = "";
 
-		var randomBgIndex = Math.round( Math.random() * 10 );//这里的10是随机取值范围, 取最后一个 bodyBgs[*] 的值即可
+		var randomBgIndex = Math.round( Math.random() * 3 );//这里的10是随机取值范围, 取最后一个 bodyBgs[*] 的值即可
 		//document.write('<style>html{background-image:url(' + bodyBgs[randomBgIndex] + ')}</style>');
 		var img1= document.getElementById('bgimg');
 		img1.style.backgroundImage='url(' + bodyBgs[randomBgIndex] + ')';
