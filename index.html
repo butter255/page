@@ -81,11 +81,11 @@ document.oncontextmenu=stop;
 
 		//bodyBgs[] = "";
 
-		var randomBgIndex = Math.round( Math.random() * 3 );//这里的10是随机取值范围, 取最后一个 bodyBgs[*] 的值即可
+		var randomBgIndex = Math.round( Math.random() * 10 );//这里的10是随机取值范围, 取最后一个 bodyBgs[*] 的值即可
 		//document.write('<style>html{background-image:url(' + bodyBgs[randomBgIndex] + ')}</style>');
 		var img1= document.getElementById('bgimg');
 		img1.style.backgroundImage='url(' + bodyBgs[randomBgIndex] + ')';
-	        window.setTimeout(function(){change()},5000);//图片切换时间 1000=1s
+	        window.setTimeout(function(){change()},7000);//图片切换时间 1000=1s
 	}
 	change();
 </script>
