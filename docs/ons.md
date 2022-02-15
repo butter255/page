@@ -1,5 +1,13 @@
 # ons模拟器相关
 # （推荐）（全平台）ONScripter-Jh
+## [下载地址](https://sayafx.sayafx.repl.co/ali/%E4%B8%8B%E8%BD%BD%E8%A7%A3%E5%8E%8B%E9%97%AE%E9%A2%98%EF%BC%8C%E6%80%BB%E4%B9%8B%E6%9C%89%E9%97%AE%E9%A2%98%E9%83%BD%E7%9C%8B%E8%BF%99%E9%87%8C/)   
+| 版本  |下载地址  |
+|  :----- |  :----- |
+| ISLAND  |  [下载地址](https://sayafx.sayafx.repl.co/ali/%E4%B8%8B%E8%BD%BD%E8%A7%A3%E5%8E%8B%E9%97%AE%E9%A2%98%EF%BC%8C%E6%80%BB%E4%B9%8B%E6%9C%89%E9%97%AE%E9%A2%98%E9%83%BD%E7%9C%8B%E8%BF%99%E9%87%8C/)  |
+|kirikiroid2游戏资源库  | 05号机 |
+| ONS游戏资源库 | 30w包移植_05 |
+| 乙女游戏——个人整理 | 05号机 |
+| 近月少女的礼仪| 近月 |
 手机通常使用arm64 | neon俩个版本就行，老设备请尝试general
 原下载更新地址(原作者已删库跑路)：https://bitbucket.org/jh10001/onscripter-jh/downloads/
 简易提示：双指点击屏幕调出菜单，勾选SJIS运行日文游戏
