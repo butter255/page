@@ -1,9 +1,8 @@
 # ons模拟器相关
 # （推荐）（全平台）ONScripter-Jh
-### 手机通常使用arm64 | neon俩个版本就行，老设备请尝试general
-### 简易提示：双指点击屏幕调出菜单，勾选SJIS运行日文游戏
-## [下载地址](https://github.com/onsshare/onscripter/releases)   
-## [原下载更新地址(作者已删库跑路)](https://bitbucket.org/jh10001/onscripter-jh/downloads) 
+#### 手机通常使用arm64 | neon俩个版本就行，老设备请尝试general
+#### 简易提示：双指点击屏幕调出菜单，勾选SJIS运行日文游戏
+###### [原下载更新地址(作者已删库跑路)](https://bitbucket.org/jh10001/onscripter-jh/downloads) 
 
 |本站备份下载地址  |
 |  :----- |
