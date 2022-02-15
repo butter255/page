@@ -7,9 +7,10 @@
 # 压缩包修复教程
 
 ## PC教程
-![Alt text](./img/rar1.png)
-![Alt text](./img/rar2.png)
+![Alt text](./img/rar1.jpg)
+![Alt text](./img/rar2.jpg)
 ## 安卓教程
 在rar中选中要修复的压缩包,点击右上角
 点击修复压缩文件
 ![Alt text](./img/rar3.jpg)
+![Alt text](./img/rar4.jpg)
