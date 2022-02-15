@@ -1,7 +1,10 @@
 # ons模拟器相关
 # （推荐）（全平台）ONScripter-Jh
+### 手机通常使用arm64 | neon俩个版本就行，老设备请尝试general
+### 简易提示：双指点击屏幕调出菜单，勾选SJIS运行日文游戏
 ## [下载地址](https://github.com/onsshare/onscripter/releases)   
- [原下载更新地址(作者已删库跑路)](https://bitbucket.org/jh10001/onscripter-jh/downloads) 
+## [原下载更新地址(作者已删库跑路)](https://bitbucket.org/jh10001/onscripter-jh/downloads) 
+
 |本站备份下载地址  |
 |  :----- |
 |  [ONScripter-Jh-sdl2.general.apk](https://github.com/butter255/emu/releases/download/0.0.2/ONScripter-Jh-sdl2.general.apk)  |
@@ -13,8 +16,7 @@
 |  [ONScripter-Jh_0.7.6.universal.apk](https://github.com/butter255/emu/releases/download/0.0.2/ONScripter-Jh_0.7.6.universal.apk)  |
 |  [ONScripter-Jh_0.7.6.win32.7z](https://github.com/butter255/emu/releases/download/0.0.2/ONScripter-Jh_0.7.6.win32.7z)  |
 |  [ONScripter-Jh_0.7.6.x86.apk](https://github.com/butter255/emu/releases/download/0.0.2/ONScripter-Jh_0.7.6.x86.apk)  |
-手机通常使用arm64 | neon俩个版本就行，老设备请尝试general
-简易提示：双指点击屏幕调出菜单，勾选SJIS运行日文游戏
+
 # ONScripter-MiNE
 MiNE模拟器最新版，2020年起MINE模拟器更新帖：https://tieba.baidu.com/p/6476350812
 兼容问题可尝试换旧版本（见下）
