@@ -1,10 +1,8 @@
-# 下载器推荐及下载
-## 推荐idm
+## 下载器推荐及下载
 |下载地址  |
 |  :----- |
 |  [PC：Internet Download Manager 6.37.14 已激活 免安装.zip](https://emu.fw05.workers.dev/https://github.com/butter255/emu/releases/download/rar/Internet.Download.Manager.6.37.14.zip)  |
 |  [安卓：IDM+ v15.2 for Android：](https://emu.fw05.workers.dev/https://github.com/butter255/emu/releases/download/rar/Internet.Download.Manager.6.37.14.zip)  |
-# 下载遇到问题？
 ## 问题A:怎么下载文件？
 ### 解决方法a：在文件的右侧找到下载图标，单击进行下载（注：有时文件名过长，右侧图标不显示，这时应该采用其它方法）
 ![Alt text](./img/1.png)<br>
