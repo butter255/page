@@ -17,7 +17,7 @@
 |  [ONScripter-Jh_0.7.6.x86.apk](https://emu.fw05.workers.dev/https://github.com/butter255/emu/releases/download/0.0.2/ONScripter-Jh_0.7.6.x86.apk)  |
 
 # ONScripter-MiNE
-|  [MiNE模拟器最新版，2020年起MINE模拟器更新帖：](https://tieba.baidu.com/p/6476350812)  |
+  [MiNE模拟器最新版，2020年起MINE模拟器更新帖：](https://tieba.baidu.com/p/6476350812)  
 ##### 兼容问题可尝试换旧版本
 ##### 简易提示：MiNE全屏:双指菜单——按键右（左）——关闭
 |本站备份下载地址  |
