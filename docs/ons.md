@@ -60,20 +60,20 @@
 |  :----- |
 |  [OERunner1.2.apk](https://emu.fw05.workers.dev/https://github.com/butter255/emu/releases/download/ONScripter-OERunner/OERunner1.2.apk)  |
 # NSCripter-jh for Nintendo Switch
-##### ONS模拟器NS版，|  [详见：](http://wetor.top)  |
-[项目地址](https://github.com/wetor/ONScripter-jh-Switch)  |
+##### ONS模拟器NS版，  [详见：](http://wetor.top)  
+##### [项目地址](https://github.com/wetor/ONScripter-jh-Switch)  
 |本站备份下载地址  |
 |  :----- |
 |  [ONS-for-Switch-2.0.2.zip](https://emu.fw05.workers.dev/https://github.com/butter255/emu/releases/download/ONScripter-NS/ONS-for-Switch-2.0.2.zip)  |
 # ONScripter-jh-PSVita
-##### ONS模拟器PSV版，|  [详见：](http://wetor.top)  |
-[项目地址](https://github.com/wetor/ONScripter-jh-PSVita)  |
+##### ONS模拟器PSV版，  [详见：](http://wetor.top)  
+##### [项目地址](https://github.com/wetor/ONScripter-jh-PSVita)  |
 |本站备份下载地址  |
 |  :----- |
 |  [ONS-for-PSV-beta0.2.zip](https://emu.fw05.workers.dev/https://github.com/butter255/emu/releases/download/ONScripter-NS/ONS-for-PSV-beta0.2.zip)  |
 # ONScripter-ACGF
 ##### ACGFuture开发的，仅支持Android4.4以下，不推荐使用，
-[项目地址](https://code.google.com/archive/p/onscripter/)  |
+[项目地址](https://code.google.com/archive/p/onscripter/)  
 # Win-ONScripter
 ##### MiNE模拟器PC版，顺带还有一个韩文版的，主要给移植人员测试用，也可以用ONScripter-jh或ONScripter win版 有电脑去找硬盘版资源，不要模拟器套娃
 |本站备份下载地址  |
