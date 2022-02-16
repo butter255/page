@@ -67,7 +67,7 @@
 |  [ONS-for-Switch-2.0.2.zip](https://emu.fw05.workers.dev/https://github.com/butter255/emu/releases/download/ONScripter-NS/ONS-for-Switch-2.0.2.zip)  |
 # ONScripter-jh-PSVita
 ##### ONS模拟器PSV版，  [详见：](http://wetor.top)  
-##### [项目地址](https://github.com/wetor/ONScripter-jh-PSVita)  |
+##### [项目地址](https://github.com/wetor/ONScripter-jh-PSVita)  
 |本站备份下载地址  |
 |  :----- |
 |  [ONS-for-PSV-beta0.2.zip](https://emu.fw05.workers.dev/https://github.com/butter255/emu/releases/download/ONScripter-NS/ONS-for-PSV-beta0.2.zip)  |
