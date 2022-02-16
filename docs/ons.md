@@ -45,7 +45,7 @@
 全平台 只能运行日文游戏
 # ONScripter-PLUS
 [github项目地址](https://github.com/matthewn4444/onscripter-plus-android) 
-ONScripter-PLUS模拟器，辅助键较多，可兼容多种语言（英日韩汉） 但有时存在兼容问题可能乱码 使用ONScripter内核
+ONScripter-PLUS模拟器，辅助键较多，可兼容多种语言（英日韩汉） 但有时存在兼容问题可能乱码 使用ONScripter内核<br>
 |本站备份下载地址  |
 |  :----- |
 |  [Onscripter-Plus_1.2.4.apk](https://emu.fw05.workers.dev/https://github.com/butter255/emu/releases/download/ONScripter-PLUS/Onscripter-Plus_1.2.4.apk)  |
