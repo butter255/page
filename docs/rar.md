@@ -3,12 +3,10 @@
 |下载地址  |
 |  :----- |
 | PC  |
-|  :----- |
 |  [WinRAR 5.30去广告破解版](https://emu.fw05.workers.dev/https://github.com/butter255/emu/releases/download/krkr2/Kirikiroid2_yuri_1.3.9.apk)  |
 |  [Bandizip官网](https://cn.bandisoft.com)  |
 |  [7-Zip官网](https://www.7-zip.org)  |
 | 安卓 |
-|  :----- |
 |  [ZArchiver.Pro_0.9.5.apk](https://emu.fw05.workers.dev/https://github.com/butter255/emu/releases/download/rar/ZArchiver.Pro_0.9.5.apk)  |
 |  [RAR for Android](https://emu.fw05.workers.dev/https://github.com/butter255/emu/releases/download/rar/RAR_6.00.build97.apk)  |
 
