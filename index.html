@@ -38,24 +38,7 @@ document.onmouseup=reEnable
 <script> 
 
 
-	function click(e) {
-		if (document.layers) {
-			if (e.which == 3) {
-				oncontextmenu='return false';
-			}
-		}
-	}
-	if (document.layers) {
-		document.captureEvents(Event.MOUSEDOWN);
-	}
-	document.onmousedown=click;
-	document.oncontextmenu = new Function("return false;")
-	document.onkeydown =document.onkeyup = document.onkeypress=function(){ 
-		if(window.event.keyCode == 123) { 
-			window.event.returnValue=false;
-			return(false); 
-		} 
-	}
+
 	<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "1cef731c5f5c4d598f2c3c1b7f82f79d"}'></script><!-- End Cloudflare Web Analytics -->
 
 </script>
