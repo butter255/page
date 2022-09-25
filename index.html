@@ -62,7 +62,7 @@
         change();
     </script>
     <style>
-    /* basic styles for black background and crosshair cursor */
+        /* basic styles for black background and crosshair cursor */
         
         * {
             -webkit-box-sizing: border-box;
@@ -387,117 +387,125 @@
             max-height: 30px;
             min-height: 30px
         }
-    }
-    #top_navlist {
-        display: block;
-        width: 30%;
-        height: 220px;
-        max-width: 220px;
-        margin-left: auto;
-        margin-right: auto;
-        margin-top: 50px
-    }
-    #top_navlist::after {
-        content: " ";
-        display: block;
-        width: 20%;
-        height: 150px
-    }
-    .top_nav {
-        background-image: url(./style/nav_bg.png);
-        border-radius: 5px;
-        display: block;
-        width: 100%;
-        max-height: 40px;
-        min-height: 10px;
-        margin-top: 15px;
-        text-decoration: none;
-        font-size: 90%;
-        vertical-align: middle central;
-        color: #fff;
-        letter-spacing: .5px;
-        text-align: center;
-        -webkit-transition: .2s linear;
-        -moz-transition: .2s linear;
-        -o-transition: .2s linear;
-        transition: .2s linear;
-        line-height: 180%
-    }
-    .top_nav:hover {
-        border-radius: 5px;
-        background: #fff
-    }
-    #top_footer {
-        padding: 4px 10px 4px 10px;
-        background-color: #000;
-        background-color: rgba(0, 0, 0, 0.9);
-        color: #858585;
-        position: fixed;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        z-index: 12;
-        -webkit-transition: .2s linear;
-        -moz-transition: .2s linear;
-        -o-transition: .2s linear;
-        transition: .2s linear
-    }
-    #top_footer:hover {
-        background-color: #FFF;
-        background-color: rgba(255, 255, 255, 0.8);
-        color: #000;
-    }
-    #top_copyright {
-        display: block;
-        -webkit-transition: .2s linear;
-        -moz-transition: .2s linear;
-        -o-transition: .2s linear;
-        transition: .2s linear;
-        font-size: 10px;
-        letter-spacing: 1.5px;
-        text-align: center
-    }
-    @media screen and (max-width:500px) {
+        
+        #top_navlist {
+            display: block;
+            width: 30%;
+            height: 220px;
+            max-width: 220px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 50px
+        }
+        
+        #top_navlist::after {
+            content: " ";
+            display: block;
+            width: 20%;
+            height: 150px
+        }
+        
+        .top_nav {
+            background-image: url(./style/nav_bg.png);
+            border-radius: 5px;
+            display: block;
+            width: 100%;
+            max-height: 40px;
+            min-height: 10px;
+            margin-top: 15px;
+            text-decoration: none;
+            font-size: 90%;
+            vertical-align: middle central;
+            color: #fff;
+            letter-spacing: .5px;
+            text-align: center;
+            -webkit-transition: .2s linear;
+            -moz-transition: .2s linear;
+            -o-transition: .2s linear;
+            transition: .2s linear;
+            line-height: 180%
+        }
+        
+        .top_nav:hover {
+            border-radius: 5px;
+            background: #fff
+        }
+        
         #top_footer {
-            padding: 1px
+            padding: 4px 10px 4px 10px;
+            background-color: #000;
+            background-color: rgba(0, 0, 0, 0.9);
+            color: #858585;
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            z-index: 12;
+            -webkit-transition: .2s linear;
+            -moz-transition: .2s linear;
+            -o-transition: .2s linear;
+            transition: .2s linear
+        }
+        
+        #top_footer:hover {
+            background-color: #FFF;
+            background-color: rgba(255, 255, 255, 0.8);
+            color: #000;
         }
         
         #top_copyright {
-            font-size: 8px;
-            letter-spacing: 0;
+            display: block;
+            -webkit-transition: .2s linear;
+            -moz-transition: .2s linear;
+            -o-transition: .2s linear;
+            transition: .2s linear;
+            font-size: 10px;
+            letter-spacing: 1.5px;
             text-align: center
         }
-    }
-    .tooltips {
-        -webkit-animation: A 3s linear 0s infinite;
-        animation: A 3s linear 0s infinite;
-        width: 12px;
-        height: 12px;
-        top: 10px;
-        left: 10px;
-        background: url(./style/snow0.gif);
-        font-size: 10px;
-        position: absolute;
-        /*这个是关键*/
         
-        z-index: 102;
-    }
-    .tooltips:hover {
-        -webkit-animation: none;
-        animation: none;
-        z-index: 103;
-        background: none;
-        /*没有这个在IE中不可用*/
-    }
-    .tooltips span {
-        display: none;
-    }
-    .tooltips:hover span {
-        /*span 标签仅在 :hover 状态时显示*/
+        @media screen and (max-width:500px) {
+            #top_footer {
+                padding: 1px
+            }
+            #top_copyright {
+                font-size: 8px;
+                letter-spacing: 0;
+                text-align: center
+            }
+        }
         
-        display: block;
-        position: relative;
-    }
+        .tooltips {
+            -webkit-animation: A 3s linear 0s infinite;
+            animation: A 3s linear 0s infinite;
+            width: 12px;
+            height: 12px;
+            top: 10px;
+            left: 10px;
+            background: url(./style/snow0.gif);
+            font-size: 10px;
+            position: absolute;
+            /*这个是关键*/
+            z-index: 102;
+        }
+        
+        .tooltips:hover {
+            -webkit-animation: none;
+            animation: none;
+            z-index: 103;
+            background: none;
+            /*没有这个在IE中不可用*/
+        }
+        
+        .tooltips span {
+            display: none;
+        }
+        
+        .tooltips:hover span {
+            /*span 标签仅在 :hover 状态时显示*/
+            display: block;
+            position: relative;
+        }
     </style>
     <div style="text-align:center;clear:both">
     </div>
